@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.fcs.controller.ExpenseControllerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.909 s - in com.example.fcs.controller.ExpenseControllerTest
